@@ -1,0 +1,7 @@
+The 5 cities with the most breakfast orders (in descending order) are: Volos, Larisa, Xanthi, Ioannina and Rhodes. 
+
+Breakfast orders make up between 26% (Larisa) and 47% (Volos) of the total efood orders.
+
+The breakfast basket (amount per order) for the aforementioned cities is between 4,9€ and 6,2€, which is between 32%-39% lower than the total efood basket (the total efood basket for these cities is between 7,2€ and 10,3€).
+
+It's also worth noting that the frequency (number of orders per user) is higher for total efood compared to breakfast (between 3,1 - 4,3 for breakfast, and 3,8 - 5,4 for total efood). As a result it's not surprising that there are less frequent users (with more than 3 orders) for breakfast orders, as they amount to a percentage between 24% - 35% of total users, while this percentage for total efood lies between a range of 34% - 43%.
