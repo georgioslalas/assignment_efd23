@@ -61,6 +61,8 @@ efood.city
 ,efood.efood_usersFreq3_perc
 ,breakfast.breakfast_orders
 ,efood.efood_orders
+,breakfast.breakfast_orders/efood.efood_orders as breakfast_perc
+,(breakfast.breakfast_basket/efood.efood_basket) - 1 as perc_diff_basket
 FROM efood 
 LEFT JOIN breakfast ON breakfast.city = efood.city 
 WHERE efood.city in (SELECT city  
