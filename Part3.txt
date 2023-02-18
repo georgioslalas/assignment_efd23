@@ -1,0 +1,14 @@
+From the cover slide, C-Level management gets a quick overview of the overall perfomance and the main KPIs effectively. The main insight out of this cover slide is that orders are fewer on holidays/Sundays compared to working days/Saturdays, but the average basked size is higher.
+
+The geographical breakdown slide gives a quick overview of orders, acquisitions and average basked size per city, along with a comparison (which is not clear exactly how it's made). 
+ 
+
+Recommended changes:
+ 
+1. Cover: On the bar/line chart (upper) Acquisitions are quite low compared to Jokers, which are on the same axis/scale and as a result  the line for Acquisitions appears too flat. A new small bar or line chart could be added to present daily acquisitions.
+
+2. Cover: Jokers and Joker share KPIs (middle) could be placed vertically aligned with the rest of the KPIs (orders, DH average basket size, etc.). They could also be resized to match the rest KPIs. The comparison (+25 for Jokers, +0,18% for Joker share) is not clear, and as a result could be removed (or if it's something the management understands, it could be added to the rest KPIs).
+
+3. Cover: The lines on the line chart (lower) have similar colours and are hard to distinguish. The labels also overlap. A better way to present these figures should be examined (e.g. remove certain labels, change line colours, split into multiple line charts, turn the average basket size into bars).
+
+4: Geographical breakdown: It's a minor detail, but I'm not a fan of "Greeklish", as a result I would not choose "Poli" as a column header. I would also recommend trying to clean or filter the data, in order for null values to not appear in this table.
